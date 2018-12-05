@@ -13,8 +13,7 @@
     "webpack",
     "cdn",
     "webp",
-    "qiniu",
-    "webp"
+    "qiniu"
   ],
   "author": "Amigooo <xizhouh@gmail.com>",
   "license": "MIT",
